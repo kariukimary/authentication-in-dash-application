@@ -2,7 +2,7 @@
 authentication
 
 
-#one can use basic authentication in dash application but however its much pretty  a lodin and logut page that allow user to login and logout from the 
+#one can use basic authentication in dash application but however its much pretty  to have  a login and logout page that allow user to login and logout from the application 
 
 
 #when the user enters the correct credentials a link "Access Granted" appears and on clicking it directs him on the main page
